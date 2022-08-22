@@ -1,3 +1,1076 @@
 hallo
 test
 e
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <section class="progress">
+        <header class="header_progress">
+            <nav class="navbar_progress">
+                <img src="logo_new_progress.png" alt="">
+                <h1>PROGRESS</h1>
+                <a href="#">Menu</a>
+            </nav>
+            <div class="text_header_progress">
+                <h1>#Salam Programming</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque dolorum velit illum placeat autem
+                    consectetur quos error aut, aliquid mollitia consequuntur eum, eveniet nostrum facilis,</p>
+            </div>
+        </header>
+        <main class="main_progress">
+            <div class="text">
+                <div class="text1">
+                    <p>Lorem ipsum dolor sit amet,consectetur adipiscing elit. Proin ut fringilla nisl, quis volutpat
+                        nisi. Praesent ornare ligula eget euismod volutpat. Pellentesque ac quam a urna dictum cursus ut
+                        vel tortor. Donec a odio justo. Aliquam ac ante sed felis s</p>
+                    <h3>About us</h3>
+                </div>
+                <div class="text2">
+                    <h3>Profile UKM</h3>
+                    <p>Lorem ipsum dolor sit amet,consectetur adipiscing elit. Proin ut fringilla nisl, quis volutpat
+                        nisi. Praesent ornare ligula eget euismod volutpat. Pellentesque ac quam a urna dictum cursus ut
+                        vel tortor. Donec a odio justo. Aliquam ac ante sed felis s</p>
+                </div>
+            </div>
+            <div class="hero_main_progress">
+                <img src="hero2.png" alt="">
+            </div>
+            <div class="ellipse">
+                <div class="no1"></div>
+                <div class="no2"></div>
+                <div class="no3"></div>
+            </div>                
+        </main>
+        <div class="footer_progress">
+            <div class="text1">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut fringilla nisl, quis volutpat nisi. Praesent ornare ligula eget euismod volutpat. Pellentesque ac quam a urna dictum cursus ut vel tortor.</p>
+                <a href="#">Contact us</a>
+            </div>
+            <div class="text2">
+                <ul class="no1">
+                    <li><img src="logo_new_progress.png" alt=""></li>
+                    <li><span>PROGRESS</span></li>
+                    <li><span>Call :</span><a href="#">0885678555757</a></li>
+                    <li><span>Email :</span><a href="#">info@gmail.com</a></li>
+                </ul>
+                <ul>
+                    <li><a href="#">instagram</a></li>
+                    <li><a href="#">instagram</a></li>
+                    <li><a href="#">instagram</a></li>
+                    <li><a href="#">instagram</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <section class="about">
+        <nav class="navbar_about">
+            <img src="logo_new_progress.png" alt="">
+            <h1>PROGRESS</h1>
+            <a href="#">Menu</a>
+        </nav>
+        <div class="text_about">
+            <div class="text_about1">
+                <h1>About</h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut fringilla nisl, quis volutpat nisi. Praesent ornare ligula eget euismod volutpat. Pellentesque ac quam a urna dictum cursus ut vel tortor. Donec a odio justo. Aliquam ac ante sed felis accumsan rhoncus ut ut magna. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+            </div>
+            <div class="text_about2">
+                <h1>Visi</h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut fringilla nisl, quis volutpat nisi. Praesent ornare ligula eget euismod volutpat. Pellentesque ac quam a urna dictum cursus ut vel tortor. Donec a odio justo. Aliquam ac ante sed felis accumsan rhoncus ut ut magna. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+            </div>
+            <div class="text_about3">
+                <h1>Misi</h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut fringilla nisl, quis volutpat nisi. Praesent ornare ligula eget euismod volutpat. Pellentesque ac quam a urna dictum cursus ut vel tortor. Donec a odio justo. Aliquam ac ante sed felis accumsan rhoncus ut ut magna. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+            </div>
+            <div class="text_about4">
+                <h1>Our Team</h1>
+                <div class="photo_bob">
+                    <img src="bobmarlin.png" alt="">
+                    <span>Bob Marlin</span>
+                    <p>Ketua</p>
+                </div>
+                <div class="photo_bob">
+                    <img src="bobmarlin.png" alt="">
+                    <span>Bob Marlin</span>
+                    <p>Ketua</p>
+                </div>
+            </div>
+        </div>
+        <div class="footer_about">
+            <div class="text1">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut fringilla nisl, quis volutpat nisi. Praesent ornare ligula eget euismod volutpat. Pellentesque ac quam a urna dictum cursus ut vel tortor.</p>
+                <a href="#">Contact us</a>
+            </div>
+            <div class="text2">
+                <ul class="no1">
+                    <li><img src="logo_new_progress.png" alt=""></li>
+                    <li><span>PROGRESS</span></li>
+                    <li><span>Call :</span><a href="#">0885678555757</a></li>
+                    <li><span>Email :</span><a href="#">info@gmail.com</a></li>
+                </ul>
+                <ul>
+                    <li><a href="#">instagram</a></li>
+                    <li><a href="#">instagram</a></li>
+                    <li><a href="#">instagram</a></li>
+                    <li><a href="#">instagram</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <section class="kegiatan">
+        <div class="header_kegiatan">
+            <header class="header_kegiatan">
+                <nav class="navbar_kegiatan">
+                    <img src="logo_new_progress.png" alt="">
+                    <h1>PROGRESS</h1>
+                    <a href="#">Menu</a>
+                </nav>
+                <div class="text_header_kegiatan">
+                    <h1>INFINITY</h1>
+                </div>
+        </div>
+        <div class="main_kegiatan">
+            <div class="text1_kegiatan">
+                <img src="logo_new_progress.png" alt="">
+                <div class="text">
+                    <h1><span>01.</span>Infinity Progress</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut fringilla nisl, quis volutpat nisi. Praesent ornare ligula eget euismod volutpat. Pellentesque ac quam a urna dictum cursus ut vel tortor. Donec a odio justo. Aliquam ac ante sed felis accumsan rhoncus ut ut magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus blandit ante eget elit vehicula malesuada.</p>
+                </div>
+            </div>
+            <div class="hero1">
+                <img src="hero2.png" alt="">
+            </div>
+            <div class="hero2">
+                <img src="hero3.png" alt="">
+                <img src="hero3.png" alt="">
+            </div>
+            <div class="link_kegiatan">
+                <div class="text1_link_kegiatan">
+                    <ul>
+                        <li><a href="#">Next Project</a></li>
+                        <li><a href="#">Back To Menu</a></li>
+                    </ul>
+                </div>
+                <div class="text2_link_kegiatan">
+                    <a href="#">02. Infinity Progress</a>
+                </div>
+            </div>
+        </div>
+        <div class="footer_kegiatan">
+            <div class="text1">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut fringilla nisl, quis volutpat nisi. Praesent ornare ligula eget euismod volutpat. Pellentesque ac quam a urna dictum cursus ut vel tortor.</p>
+                <a href="#">Contact us</a>
+            </div>
+            <div class="text2">
+                <ul class="no1">
+                    <li><img src="logo_new_progress.png" alt=""></li>
+                    <li><span>PROGRESS</span></li>
+                    <li><span>Call :</span><a href="#">0885678555757</a></li>
+                    <li><span>Email :</span><a href="#">info@gmail.com</a></li>
+                </ul>
+                <ul>
+                    <li><a href="#">instagram</a></li>
+                    <li><a href="#">instagram</a></li>
+                    <li><a href="#">instagram</a></li>
+                    <li><a href="#">instagram</a></li>
+                </ul>
+            </div>
+    </section>
+    <section class="profile_ukm">
+        <nav class="navbar_profile_ukm">
+            <img src="logo_new_progress.png" alt="">
+            <h1>PROGRESS</h1>
+            <a href="#">Menu</a>
+        </nav>
+        <div class="text_profile">
+            <div class="text_profile1">
+                <img src="hero3.png" alt="">
+                <div>
+                    <h1>WEB DEVOLOPER</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. A venenatis sed commodo parturient. Lacus nunc leo elementum eu scelerisque eu in vitae. Nisl mi odio egestas aenean massa lorem morbi massa ut.</p>
+                </div>
+            </div>
+            <div class="text_profile2">
+                <div>
+                    <h1>PROGRAMMING</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. A venenatis sed commodo parturient. Lacus nunc leo elementum eu scelerisque eu in vitae. Nisl mi odio egestas aenean massa lorem morbi massa ut.</p>
+                </div>
+                <img src="hero3.png" alt="">
+            </div>
+            <div class="text_profile3">
+                <img src="hero3.png" alt="">
+                <div>
+                    <h1>MOBILE PROGRAMMING</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. A venenatis sed commodo parturient. Lacus nunc leo elementum eu scelerisque eu in vitae. Nisl mi odio egestas aenean massa lorem morbi massa ut.</p>
+                </div>
+            </div>
+            <div class="text_profile4">
+                <div>
+                    <h1>DEVELOPER</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. A venenatis sed commodo parturient. Lacus nunc leo elementum eu scelerisque eu in vitae. Nisl mi odio egestas aenean massa lorem morbi massa ut.</p>
+                </div>
+                <img src="hero3.png" alt="">
+            </div>
+        </div>
+        <div class="footer_profile">
+            <div class="text1">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut fringilla nisl, quis volutpat nisi. Praesent ornare ligula eget euismod volutpat. Pellentesque ac quam a urna dictum cursus ut vel tortor.</p>
+                <a href="#">Contact us</a>
+            </div>
+            <div class="text2">
+                <ul class="no1">
+                    <li><img src="logo_new_progress.png" alt=""></li>
+                    <li><span>PROGRESS</span></li>
+                    <li><span>Call :</span><a href="#">0885678555757</a></li>
+                    <li><span>Email :</span><a href="#">info@gmail.com</a></li>
+                </ul>
+                <ul>
+                    <li><a href="#">instagram</a></li>
+                    <li><a href="#">instagram</a></li>
+                    <li><a href="#">instagram</a></li>
+                    <li><a href="#">instagram</a></li>
+                </ul>
+            </div>
+    </section>
+    <section class="contact">
+        <nav class="navbar_contact">
+            <img src="logo_new_progress.png" alt="">
+            <h1>PROGRESS</h1>
+            <a href="#">Menu</a>
+        </nav>
+        <h1 class="h1_contact_us">Contact us</h1>
+        <div class="text_contact_us">
+            <div class="contact_us_left">
+                <div class="contact_phone_email">
+                    <p><span>Phone: </span> <br>088567855757</p>
+                    <p><span>Email</span> <br>info@gmail.com</p>
+                </div>
+                <div class="contact_find_us">
+                    <p><span>Find us: </span> <br>Jl. Raya Puputan No.86, Dangin Puri Klod, Kec. Denpasar Tim., Kota Denpasar, Bali</p>
+                </div>
+            </div>
+            <div class="contact_us_right">
+                <img src="hero2.png" alt="">
+            </div>
+        </div>
+        <div class="text2">
+            <ul class="no1">
+                <li><img src="logo_new_progress.png" alt=""></li>
+                <li><span>PROGRESS</span></li>
+                <li><span>Call :</span><a href="#">0885678555757</a></li>
+                <li><span>Email :</span><a href="#">info@gmail.com</a></li>
+            </ul>
+            <ul>
+                <li><a href="#">instagram</a></li>
+                <li><a href="#">instagram</a></li>
+                <li><a href="#">instagram</a></li>
+                <li><a href="#">instagram</a></li>
+            </ul>
+        </div>
+    </section>
+</body>
+</html>
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Poppins&family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Poppins&family=Roboto+Mono&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* PROGRESS */
+/* header */
+.header_progress{
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)), url(hero.png);
+    background-size: cover;
+    height: 750px;
+    color: white;
+    overflow: hidden;
+}
+.navbar_progress{
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    align-items: center;
+    padding: 0 100px;
+    font-family: poppins;
+}
+.navbar_progress img{
+    width: 60px;
+}
+.navbar_progress h1{
+    font-weight: bolder;
+    font-size: 35PX;
+}
+.navbar_progress a{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+}
+.text_header_progress{
+    text-align: center;
+    padding-top: 260px;
+}
+.text_header_progress h1{
+    font-family: poppins;
+    font-size: 65px;
+    font-weight: bolder;
+    line-height: 90px;
+}
+.text_header_progress p{
+    font-family: roboto mono;
+    font-size: 20px;
+    line-height: 26px;
+    padding: 0 300px;
+}
+/* main */
+.main_progress{
+    background-color: #DDD6CD;
+    overflow: hidden;
+}
+.main_progress .text{
+    padding: 100px 0 100px 200px;
+}
+.main_progress .text1{
+    display: flex;
+    font-size: 17px;
+    font-family: roboto mono;
+    line-height: 23px;
+    padding-left: 25px;
+}
+.main_progress .text1 p{
+    width: 400px;
+    padding-right: 130px;
+}
+.main_progress .text1 h3{
+    font-weight: bolder;
+    border-bottom: 5px solid black;
+    padding-top: 75px;
+    font-size: 15px;
+    margin-bottom: 55px;
+}
+.main_progress .text2{
+    display: flex;
+    font-size: 17px;
+    font-family: roboto mono;
+    line-height: 23px;
+    padding-left: 275px;
+    padding-top: 100px;
+}
+.main_progress .text2 h3{
+    font-weight: bolder;
+    border-bottom: 5px solid black;
+    padding-top: 100px;
+    margin-bottom: 55px;
+    font-size: 15px;
+}
+.main_progress .text2 p{
+    width: 400px;
+    padding-left: 100px;
+}
+.hero_main_progress{
+    display: flex;
+    justify-content: center;
+}
+.ellipse{
+    display: flex;
+    justify-content: center;
+    padding: 30px 0 100px 0;
+}
+.ellipse .no1{
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px;
+}
+.ellipse .no2{
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 0 23px;
+}
+.ellipse .no3{
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 10px;
+}
+/* footer */
+.footer_progress{
+    height: 400px;
+    background-color: #1A1E21;
+    color: white;
+}
+.footer_progress .text1{
+    text-align: center;
+    width: 100%;
+    padding-bottom: 70px;
+    border-bottom: 1px solid #DDD6CD;
+}
+.footer_progress .text1 p{
+    font-family: roboto mono;
+    line-height: 23px;
+    text-align: center;
+    padding: 0 220px;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+.footer_progress .text1 a{
+    font-family: poppins;
+    font-size: 18px;
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+    border-bottom: 3px solid white;
+    padding-bottom: 5px;
+}
+.footer_progress .text2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 100px;
+    font-family: poppins;
+    font-size: 12px;
+    height: 70px;
+}
+.footer_progress .text2 .no1{
+    display: flex;
+    align-items: center;
+}
+.footer_progress .text2 .no1 span{
+    font-weight: bolder;
+}
+.footer_progress .text2 ul li{
+    display: inline-block;
+    padding-left: 25px;
+}
+.footer_progress .text2 ul li a{
+    color: white;
+    text-decoration: none;
+    font-family: roboto mono;
+}
+.footer_progress .text2 img{
+    width: 55px;
+}
+
+
+
+
+/* ABOUT */
+/* navbar */
+.about{
+    background-color: #DDD6CD;
+    overflow: hidden;
+}
+.navbar_about{
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    align-items: center;
+    padding: 0 100px;
+    font-family: poppins;
+    color: white;
+}
+.navbar_about img{
+    width: 60px;
+}
+.navbar_about h1{
+    font-weight: bolder;
+    font-size: 35PX;
+}
+.navbar_about a{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+}
+/* main */
+.text_about{
+    padding: 0 90px;
+}
+.text_about1{
+    display: flex;
+    padding-top: 140px;
+    padding-bottom: 170px;
+    border-bottom: 1px solid black;
+}
+.text_about1 h1{
+    font-family: poppins;
+    font-size: 30px;
+    font-weight: bolder;
+    padding: 0 260px 0 200px;
+}
+.text_about1 p{
+    font-family: roboto mono;
+    font-size: 17px;
+    width: 37%;
+}
+.text_about2{
+    display: flex;
+    padding-top: 140px;
+    padding-bottom: 170px;
+    border-bottom: 1px solid black;
+}
+.text_about2 h1{
+    font-family: poppins;
+    font-size: 30px;
+    font-weight: bolder;
+    padding: 0 300px 0 200px;
+}
+.text_about2 p{
+    font-family: roboto mono;
+    font-size: 17px;
+    width: 37%;
+}
+.text_about3{
+    display: flex;
+    padding-top: 140px;
+    padding-bottom: 170px;
+    border-bottom: 1px solid black;
+}
+.text_about3 h1{
+    font-family: poppins;
+    font-size: 30px;
+    font-weight: bolder;
+    padding: 0 300px 0 200px;
+}
+.text_about3 p{
+    font-family: roboto mono;
+    font-size: 17px;
+    width: 37%;
+}
+.text_about4{
+    display: flex;
+    padding-top: 180px;
+    padding-bottom: 170px;
+    border-bottom: 1px solid black;
+}
+.text_about4 h1{
+    font-family: poppins;
+    font-size: 30px;
+    font-weight: bolder;
+    padding: 0 160px 0 250px;
+}
+.photo_bob{
+    width: 250px;
+}
+.text_about4 img{
+    height: 250px;
+    padding-bottom: 10px;
+}
+.text_about4 span{
+    font-size: 20px;
+    font-family: poppins;
+    font-weight: bolder;
+    line-height: 30px;
+}
+.text_about4 p{
+    font-family: roboto mono;
+}
+/* footer */
+.footer_about{
+    height: 400px;
+    background-color: #1A1E21;
+    color: white;
+}
+.footer_about .text1{
+    text-align: center;
+    width: 100%;
+    padding-bottom: 70px;
+    border-bottom: 1px solid #DDD6CD;
+}
+.footer_about .text1 p{
+    font-family: roboto mono;
+    line-height: 23px;
+    text-align: center;
+    padding: 0 220px;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+.footer_about .text1 a{
+    font-family: poppins;
+    font-size: 18px;
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+    border-bottom: 3px solid white;
+    padding-bottom: 5px;
+}
+.footer_about .text2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 100px;
+    font-family: poppins;
+    font-size: 12px;
+    height: 70px;
+}
+.footer_about .text2 .no1{
+    display: flex;
+    align-items: center;
+}
+.footer_about .text2 .no1 span{
+    font-weight: bolder;
+}
+.footer_about .text2 ul li{
+    display: inline-block;
+    padding-left: 25px;
+}
+.footer_about .text2 ul li a{
+    color: white;
+    text-decoration: none;
+    font-family: roboto mono;
+}
+.footer_about .text2 img{
+    width: 55px;
+}
+
+
+
+/* KEGIATAN */
+/* header */
+.kegiatan{
+    overflow: hidden;
+}
+.header_kegiatan{
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)), url(hero.png);
+    background-size: cover;
+    height: 750px;
+    color: white;
+    overflow: hidden;
+}
+.text_header_kegiatan h1{
+    position: relative;
+    float: right;
+    font-family: poppins;
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 530px;
+    margin-right: 120px;
+    border-bottom: 5px solid white;
+}
+.navbar_kegiatan{
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    align-items: center;
+    padding: 0 100px;
+    font-family: poppins;
+    color: white;
+}
+.navbar_kegiatan img{
+    width: 60px;
+}
+.navbar_kegiatan h1{
+    font-weight: bolder;
+    font-size: 35PX;
+}
+.navbar_kegiatan a{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+}
+/* main */
+.text1_kegiatan{
+    display: flex;
+    padding: 140px 0 110px 0;
+    justify-content: center;
+    font-family: poppins;
+    background-color: #DDD6CD;
+    width: 100%;
+}
+.text1_kegiatan img{
+    height: 70px;
+    padding-right: 80px;
+}
+.text1_kegiatan span{
+    font-family: roboto mono;
+}
+.text1_kegiatan h1{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.text1_kegiatan p{
+    font-family: roboto mono;
+    width: 660px;
+    font-size: 17px;
+}
+.kegiatan .hero1{
+    display: flex;
+    justify-content: center;
+    background-color: #DDD6CD;
+    padding-bottom: 80px;
+}
+.kegiatan .hero2{
+    display: flex;
+    justify-content: center;
+    background-color: #DDD6CD;
+    padding-bottom: 90px;
+}
+.kegiatan .hero2 img{
+    width: 549px;
+    padding: 0 15px;
+}
+.link_kegiatan{
+    display: flex;
+    justify-content: center;
+    background-color: #DDD6CD;
+    padding: 20px 0 100px 0;
+}
+.link_kegiatan a{
+    color: black;
+    font-family: poppins;
+    font-weight: 400;
+    text-decoration: none;
+}
+.text1_link_kegiatan{
+    border-right: 1px solid black;
+    padding-right: 10px;
+}
+.text2_link_kegiatan{
+    padding-left: 10px;
+}
+/* footer */
+.footer_kegiatan{
+    height: 400px;
+    background-color: #1A1E21;
+    color: white;
+}
+.footer_kegiatan .text1{
+    text-align: center;
+    width: 100%;
+    padding-bottom: 70px;
+    border-bottom: 1px solid #DDD6CD;
+}
+.footer_kegiatan .text1 p{
+    font-family: roboto mono;
+    line-height: 23px;
+    text-align: center;
+    padding: 0 220px;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+.footer_kegiatan .text1 a{
+    font-family: poppins;
+    font-size: 18px;
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+    border-bottom: 3px solid white;
+    padding-bottom: 5px;
+}
+.footer_kegiatan .text2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 100px;
+    font-family: poppins;
+    font-size: 12px;
+    height: 70px;
+}
+.footer_kegiatan .text2 .no1{
+    display: flex;
+    align-items: center;
+}
+.footer_kegiatan .text2 .no1 span{
+    font-weight: bolder;
+}
+.footer_kegiatan .text2 ul li{
+    display: inline-block;
+    padding-left: 25px;
+}
+.footer_kegiatan .text2 ul li a{
+    color: white;
+    text-decoration: none;
+    font-family: roboto mono;
+}
+.footer_kegiatan .text2 img{
+    width: 55px;
+}
+
+
+
+
+/* PROFILE UKM */
+.navbar_profile_ukm{
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    align-items: center;
+    padding: 0 100px;
+    font-family: poppins;
+    color: white;
+    background-color: #DDD6CD;
+    overflow: hidden;
+}
+.navbar_profile_ukm img{
+    width: 60px;
+}
+.navbar_profile_ukm h1{
+    font-weight: bolder;
+    font-size: 35PX;
+}
+.navbar_profile_ukm a{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+}
+/* profile */
+.text_profile{
+    padding: 0 90px;
+    background-color: #DDD6CD;
+}
+.text_profile1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 100px;
+}
+.text_profile1 img{
+    width: 450px;
+}
+.text_profile1 h1{
+    font-family: poppins;
+    font-weight: bold;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+.text_profile1 p{
+    font-family: roboto mono;
+    width: 500px;
+    font-size: 20px;
+}
+.text_profile2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 100px;
+}
+.text_profile2 img{
+    width: 450px;
+}
+.text_profile2 h1{
+    font-family: poppins;
+    font-weight: bold;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+.text_profile2 p{
+    font-family: roboto mono;
+    width: 500px;
+    font-size: 20px;
+}
+.text_profile3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 100px;
+}
+.text_profile3 img{
+    width: 450px;
+}
+.text_profile3 h1{
+    font-family: poppins;
+    font-weight: bold;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+.text_profile3 p{
+    font-family: roboto mono;
+    width: 500px;
+    font-size: 20px;
+}
+.text_profile4{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 100px 0;
+}
+.text_profile4 img{
+    width: 450px;
+}
+.text_profile4 h1{
+    font-family: poppins;
+    font-weight: bold;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+.text_profile4 p{
+    font-family: roboto mono;
+    width: 500px;
+    font-size: 20px;
+}
+/* footer */
+.footer_profile{
+    height: 400px;
+    background-color: #1A1E21;
+    color: white;
+}
+.footer_profile .text1{
+    text-align: center;
+    width: 100%;
+    padding-bottom: 70px;
+    border-bottom: 1px solid #DDD6CD;
+}
+.footer_profile .text1 p{
+    font-family: roboto mono;
+    line-height: 23px;
+    text-align: center;
+    padding: 0 220px;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+.footer_profile .text1 a{
+    font-family: poppins;
+    font-size: 18px;
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+    border-bottom: 3px solid white;
+    padding-bottom: 5px;
+}
+.footer_profile .text2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 100px;
+    font-family: poppins;
+    font-size: 12px;
+    height: 70px;
+}
+.footer_profile .text2 .no1{
+    display: flex;
+    align-items: center;
+}
+.footer_profile .text2 .no1 span{
+    font-weight: bolder;
+}
+.footer_profile .text2 ul li{
+    display: inline-block;
+    padding-left: 25px;
+}
+.footer_profile .text2 ul li a{
+    color: white;
+    text-decoration: none;
+    font-family: roboto mono;
+}
+.footer_profile .text2 img{
+    width: 55px;
+}
+
+
+
+
+/* CONTACT */
+.contact{
+    background-color: #1E1E1E;
+    overflow: hidden;
+    color: white;
+}
+.navbar_contact{
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    align-items: center;
+    padding: 0 100px;
+    font-family: poppins;
+    color: white;
+}
+.navbar_contact img{
+    width: 60px;
+}
+.navbar_contact h1{
+    font-weight: bolder;
+    font-size: 35PX;
+}
+.navbar_contact a{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+}
+/* text contact us */
+.h1_contact_us{
+    font-size: 55px;
+    font-family: poppins;
+    font-weight: bold;
+    padding: 90px 0 22px 100px;
+}
+.text_contact_us{
+    display: flex;
+    padding: 0 100px 110px 100px;
+    border-bottom: 1px solid white;
+}
+.contact_us_left{
+    padding-right: 125px;
+}
+.contact_phone_email{
+    display: flex;
+}
+.contact_phone_email p{
+    font-family: roboto mono;
+    padding-bottom: 90px;
+}
+.contact_phone_email p:nth-child(1){
+    padding-right: 140px;
+}
+.contact_phone_email span{
+    font-family: poppins;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 30px;
+}
+.contact_find_us p{
+    font-family: roboto mono;
+    width: 250px;
+}
+.contact_find_us span{
+    font-family: poppins;
+    font-size: 17px;
+    font-weight: bold;
+}
+.contact_us_right img{
+    width: 545px;
+    height: 300px;
+}
+/* footer */
+.contact .text2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 100px;
+    font-family: poppins;
+    font-size: 12px;
+    height: 70px;
+}
+.contact .text2 .no1{
+    display: flex;
+    align-items: center;
+}
+.contact .text2 .no1 span{
+    font-weight: bolder;
+}
+.contact .text2 ul li{
+    display: inline-block;
+    padding-left: 25px;
+}
+.contact .text2 ul li a{
+    color: white;
+    text-decoration: none;
+    font-family: roboto mono;
+}
+.contact .text2 img{
+    width: 55px;
+}
